@@ -4,6 +4,9 @@ and special symbols from a given string.
 
 Semester: Fall 2025
 Name: Michalia
+
+Link to practice problem: 
+https://pynative.com/python-string-exercise/#h-exercise-5-count-all-letters-digits-and-special-symbols-from-a-given-string
 """
 import doctest
 doctest.testmod()
