@@ -17,9 +17,14 @@ The goal of this repository is to:
 Each folder corresponds to a specific topic, lecture, or assignment.  
 Problems are written in Python and include comments or notes explaining the approach taken.
 
+| Folder | Description |
+|--------|-------------|
+| [Getting Started](./Getting%20Started) | Intro to problem-solving, flowcharts, and first Python programs. |
+| [Boolean Expressions & Conditionals](./Boolean%20Expressions%20&%20Conditionals) | Variables, data types, Boolean logic, and conditionals. |
+| [Functions and Testing](./Functions%20and%20Testing) | Define/call functions and implement basic tests. |
+| [while Loops](./while%20Loops) | Iteration using `while` loops. |
+| [Strings and Lists](./Strings%20and%20Lists) | Work with sequences: strings, lists, tuples; mutability. |
+| [for Loops](./for%20Loops) | Iterate efficiently over sequences and ranges using `for`. |
+
 ---
 
-## 💻 How to Use
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Michalia-Lewis/CS5001-Practice-Problems.git
