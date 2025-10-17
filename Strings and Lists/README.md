@@ -6,7 +6,6 @@ Sequences allow programs to store, access, and manipulate collections of data ef
 ---
 
 ## 🎯 Learning Objectives
-By the end of this module, you should be able to:
 
 - Describe the different types of **sequences** commonly used in programming: **lists**, **strings**, and **tuples**  
 - Explain the difference between **mutable** and **immutable** objects  

@@ -1,12 +1,11 @@
 # 🧮 Functions and Testing
 
 This folder contains materials and exercises that focus on **functions** — the building blocks of organized, reusable, and testable code.  
-In this module, you’ll learn how to define, call, and test functions to make your programs cleaner and more efficient.
+You’ll learn how to define, call, and test functions to make your programs cleaner and more efficient.
 
 ---
 
 ## 🎯 Learning Objectives
-By the end of this module, you should be able to:
 
 - Explain what a **function** is and when to use one  
 - Define the key parts of a function, including **arguments**, **parameters**, and **return values**  

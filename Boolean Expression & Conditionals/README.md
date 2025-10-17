@@ -1,12 +1,11 @@
 # 💡 Boolean Expressions & Conditionals
 
 This folder contains exercises and examples for **Boolean logic, variables, and conditional statements** in Python.  
-In this module, we explore how computers represent and manipulate data, make decisions, and control the flow of a program.
+We explore how computers represent and manipulate data, make decisions, and control the flow of a program.
 
 ---
 
 ## 🎯 Learning Objectives
-By the end of this module, you should be able to:
 
 - Explain what a **variable** is and write statements that assign values  
 - Distinguish between Python’s basic data types: **integers**, **floats**, and **strings**  

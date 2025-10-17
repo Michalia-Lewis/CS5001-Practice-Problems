@@ -1,12 +1,11 @@
 # 🖥️ Getting Started
 
 This folder contains the introductory materials and exercises for **CS 5001 – Intensive Foundations of Computer Science**.  
-The goal of this module is to build a foundation for designing and understanding solutions to computational problems.
+The goal is to build a foundation for designing and understanding solutions to computational problems.
 
 ---
 
 ## 🎯 Learning Objectives
-By the end of this module, you should be able to:
 
 - Describe the process of solving problems on a computer  
 - Identify the characteristics of an algorithm in computer science  

@@ -6,7 +6,6 @@ Iteration allows a program to repeat a sequence of statements until a specific c
 ---
 
 ## 🎯 Learning Objectives
-By the end of this module, you should be able to:
 
 - Use the **`while` loop** to repeatedly execute statements in a program  
 

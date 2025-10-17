@@ -6,7 +6,6 @@ The `for` loop provides a concise way to repeat actions over sequences, ranges, 
 ---
 
 ## 🎯 Learning Objectives
-By the end of this module, you should be able to:
 
 - Evaluate code that iterates using a **for loop**  
 - Differentiate between the three ways of calling the **`range()`** function  
