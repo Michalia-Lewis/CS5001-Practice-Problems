@@ -8,8 +8,7 @@ Name: Michalia
 Link to practice problem: 
 https://pynative.com/python-string-exercise/#h-exercise-5-count-all-letters-digits-and-special-symbols-from-a-given-string
 """
-import doctest
-doctest.testmod()
+
 
 def find_digits_chars_symbols(user_string):
     """
@@ -59,3 +58,7 @@ def main():
     find_digits_chars_symbols(user_string)
 
 main()
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod(verbose=True)
