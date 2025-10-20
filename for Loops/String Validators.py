@@ -16,14 +16,32 @@ def string_validator(str):
     This function checks to see if a string contains any digits, alphanumeriec or alphabetical characters, and uppercase or lowercase characters.
 
     Examples:
-    >>> string_validator(qA2)
-    True, True, True, True, True
-    >>> string_validator(4/11/25)
-    True, False, True, True, False, True, True
-    >>> string_validator($$$$$)
-    False, False, False, False, False
-    >>> string_validator(-1234)
-    False, True, True, True, True
+    >>> string_validator("qA2")
+    True
+    True
+    True
+    True
+    True
+    >>> string_validator("4/11/25")
+    True
+    False
+    True
+    True
+    False
+    True
+    True
+    >>> string_validator("$$$$$")
+    False
+    False
+    False
+    False
+    False
+    >>> string_validator("-1234")
+    False
+    True
+    True
+    True
+    True
 
     Arguments:
         str: The string to be analyzed.
@@ -55,3 +73,9 @@ string_validator("$$$$")
 print("\n")
 
 string_validator("-1234")
+
+
+if __name__ == "__main__":
+    import doctest
+    # verbose=True shows every test and summary like your homework
+    doctest.testmod(verbose=True)
