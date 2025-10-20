@@ -77,5 +77,5 @@ string_validator("-1234")
 
 if __name__ == "__main__":
     import doctest
-    # verbose=True shows every test and summary like your homework
     doctest.testmod(verbose=True)
+    # used internet resources/AI to help me run doc testing
