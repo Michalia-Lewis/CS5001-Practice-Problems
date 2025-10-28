@@ -50,7 +50,7 @@ def list_overlap(a = [], b = []) -> list:
             list_final.append(n)  
     return list_final
 
-def list_overlap_random(a = [], b = []) -> list:
+def list_overlap_random(a = [], b = []) -> None:
     """
     Takes two randomly generated lists of ints and returns a single list with the common ints between each list
     without duplicates.
