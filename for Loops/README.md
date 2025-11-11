@@ -6,7 +6,6 @@ The `for` loop provides a concise way to repeat actions over sequences, ranges, 
 ---
 
 ## 🎯 Learning Objectives
-
 - Evaluate code that iterates using a **for loop**  
 - Differentiate between the three ways of calling the **`range()`** function  
 - Construct **for loops** that iterate over a set of values or a sequence  
@@ -31,5 +30,5 @@ Once you master them, repetitive tasks start feeling like second nature (and a l
 ---
 
 ### 📚 Attribution
-The learning objectives and descriptions in this folder are adapted from materials provided in **CS 5001: Intensive Foundations of Computer Science**.  
-They are used here for educational and personal study purposes only.
+Module descriptions and learning objectives are adapted from **CS 5001: Intensive Foundations of Computer Science**.  
+All course materials belong to their respective authors and institutions. This repository is for personal educational use only.
