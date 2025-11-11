@@ -21,6 +21,16 @@ This repo contains exercises, examples, and notes for each module of the course.
 
 ---
 
+## 🧭 Next Up (Coming Soon)
+
+| Upcoming Module | Description |
+|------------------|-------------|
+| Classes & Objects | Introduction to object-oriented programming: designing classes, defining attributes, and creating objects. |
+| Stacks & Queues | Explore two fundamental abstract data types and their applications in organizing and managing data. |
+| Efficiency: Searching & Sorting | Learn about algorithm efficiency, time complexity, and core searching and sorting algorithms. |
+
+---
+
 ### 📚 Attribution
 Module descriptions and learning objectives are adapted from **CS 5001: Intensive Foundations of Computer Science**.  
 All course materials belong to their respective authors and institutions. This repository is for personal educational use only.
