@@ -6,7 +6,6 @@ Iteration allows a program to repeat a sequence of statements until a specific c
 ---
 
 ## 🎯 Learning Objectives
-
 - Use the **`while` loop** to repeatedly execute statements in a program  
 
 ---
@@ -26,5 +25,5 @@ The key here: always double-check your exit condition. Nobody likes an infinite 
 ---
 
 ### 📚 Attribution
-The learning objectives and descriptions in this folder are adapted from materials provided in **CS 5001: Intensive Foundations of Computer Science**.  
-They are used here for educational and personal study purposes only.
+Module descriptions and learning objectives are adapted from **CS 5001: Intensive Foundations of Computer Science**.  
+All course materials belong to their respective authors and institutions. This repository is for personal educational use only.
