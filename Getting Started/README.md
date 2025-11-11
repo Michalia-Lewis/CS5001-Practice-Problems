@@ -1,12 +1,10 @@
 # 🖥️ Getting Started
-
 This folder contains the introductory materials and exercises for **CS 5001 – Intensive Foundations of Computer Science**.  
 The goal is to build a foundation for designing and understanding solutions to computational problems.
 
 ---
 
 ## 🎯 Learning Objectives
-
 - Describe the process of solving problems on a computer  
 - Identify the characteristics of an algorithm in computer science  
 - Interpret and draw flowcharts as graphical representations of algorithms  
@@ -30,5 +28,5 @@ Start small, test often, and get comfortable experimenting in the Python shell.
 ---
 
 ### 📚 Attribution
-The learning objectives and descriptions in this folder are adapted from materials provided in **CS 5001: Intensive Foundations of Computer Science**.  
-They are used here for educational and personal study purposes only.
+Module descriptions and learning objectives are adapted from **CS 5001: Intensive Foundations of Computer Science**.  
+All course materials belong to their respective authors and institutions. This repository is for personal educational use only.
