@@ -6,7 +6,6 @@ You’ll learn how to define, call, and test functions to make your programs cle
 ---
 
 ## 🎯 Learning Objectives
-
 - Explain what a **function** is and when to use one  
 - Define the key parts of a function, including **arguments**, **parameters**, and **return values**  
 - Call a function, providing any required input and using its output  
@@ -31,5 +30,5 @@ Testing th
 ---
 
 ### 📚 Attribution
-The learning objectives and descriptions in this folder are adapted from materials provided in **CS 5001: Intensive Foundations of Computer Science**.  
-They are used here for educational and personal study purposes only.
+Module descriptions and learning objectives are adapted from **CS 5001: Intensive Foundations of Computer Science**.  
+All course materials belong to their respective authors and institutions. This repository is for personal educational use only.
