@@ -1,30 +1,32 @@
 # CS 5001 – Practice Problems
 
-This repository contains my practice problems and exercises for **CS 5001: Intensive Foundations of Computer Science**.  
-It serves as a space to strengthen my understanding of programming concepts through hands-on problem solving and experimentation.
+Welcome to my **CS 5001: Intensive Foundations of Computer Science** practice repository!  
+This repo contains exercises, examples, and notes for each module of the course. It serves as a personal reference to strengthen problem-solving skills, Python programming, and algorithmic thinking.
 
 ---
 
-## 🧠 Purpose
-The goal of this repository is to:
-- Develop stronger **problem-solving** and **algorithmic thinking** skills  
-- Reinforce key **Python programming** concepts  
-- Document progress and learning throughout the course  
+## 📂 Modules
 
----
-
-## 📂 Contents
-Each folder corresponds to a specific topic, lecture, or assignment.  
-Problems are written in Python and include comments or notes explaining the approach taken.
-
-| Folder | Description |
+| Module | Description |
 |--------|-------------|
-| [Getting Started](./Getting%20Started) | Intro to problem-solving, flowcharts, and first Python programs. |
-| [Boolean Expressions & Conditionals](./Boolean%20Expressions%20&%20Conditionals) | Variables, data types, Boolean logic, and conditionals. |
-| [Functions and Testing](./Functions%20and%20Testing) | Define/call functions and implement basic tests. |
-| [while Loops](./while%20Loops) | Iteration using `while` loops. |
-| [Strings and Lists](./Strings%20and%20Lists) | Work with sequences: strings, lists, tuples; mutability. |
-| [for Loops](./for%20Loops) | Iterate efficiently over sequences and ranges using `for`. |
+| [Getting Started](./Getting%20Started) | Introduction to problem-solving, flowcharts, and running your first Python programs. |
+| [Boolean Expressions & Conditionals](./Boolean%20Expressions%20&%20Conditionals) | Learn about variables, data types, Boolean logic, and writing conditional statements. |
+| [Functions and Testing](./Functions%20and%20Testing) | Define and call functions, understand arguments and return values, and implement basic tests. |
+| [while Loops](./while%20Loops) | Explore iteration using `while` loops to repeat actions until a condition is met. |
+| [Strings and Lists](./Strings%20and%20Lists) | Work with sequences like strings, lists, and tuples; understand mutability and data manipulation. |
+| [for Loops](./for%20Loops) | Learn `for` loops to iterate over sequences, ranges, and collections efficiently. |
+| [Error Handling](./Error%20Handling) | Design robust programs using defensive programming and error handling techniques. |
+| [Recursion](./Recursion) | Solve problems using recursive thinking and function calls that build on smaller subproblems. |
+| [Dictionaries & Sets](./Dictionaries%20&%20Sets) | Learn to organize and access data efficiently using dictionaries and sets. |
 
 ---
 
+### 📚 Attribution
+Module descriptions and learning objectives are adapted from **CS 5001: Intensive Foundations of Computer Science**.  
+All course materials belong to their respective authors and institutions. This repository is for personal educational use only.
+
+---
+
+## 💡 Notes
+This repository is a work-in-progress and reflects my learning journey through CS 5001.  
+Solutions and exercises may evolve as I continue to practice and improve.
